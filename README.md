@@ -1,24 +1,14 @@
-# README
+# Store
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple Rails application based on the [Getting Started with Rails](https://guides.rubyonrails.org/v8.0/getting_started.html) tutorial.
 
-Things you may want to cover:
+It demonstrates a basic implementation of a product listing page, including:
 
-* Ruby version
+- Creating, viewing, editing, and deleting products
+- Using Rails MVC structure (models, views, controllers)
+- Basic form handling and validations
 
-* System dependencies
+## Context
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This repository is built in the context of The Odin Project Ruby course:
+https://www.theodinproject.com/lessons/ruby-on-rails-store-app
