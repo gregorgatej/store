@@ -10,5 +10,5 @@ It demonstrates a basic implementation of a product listing page, including:
 
 ## Context
 
-This repository is built in the context of The Odin Project Ruby course:
+This repository is built in the context of The Odin Project Ruby on Rails Course:
 https://www.theodinproject.com/lessons/ruby-on-rails-store-app
